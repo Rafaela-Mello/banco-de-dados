@@ -6,22 +6,22 @@ These exercises were created as part of my studies in database systems, where I 
 
 ## 📁 **Folder structure and topics**:
 
-- `1 - básico & intermediário`:  
-  Basic SQL commands like `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, joins, and data manipulation (`INSERT`, `UPDATE`, `DELETE`).
+- `1 - Basic & Intermediate`:  
+  Basic SQL commands like SELECT, WHERE, ORDER BY, GROUP BY, Joins, and Data Manipulation (INSERT, UPDATE, DELETE).
 
-- `2 - advanced`:  
-  More advanced queries, subqueries, nested `SELECT`, set operations (`UNION`, `INTERSECT`), and performance considerations.
+- `2 - Advanced`:  
+  More advanced queries, subqueries, nested SELECT, set operations (UNION, INTERSECT), and performance considerations.
 
-- `3 - procedures & functions`:  
+- `3 - Procedures & Functions`:  
   Creation and use of stored procedures and user-defined functions in SQL.
 
-- `4 - views`:  
-  Use of `CREATE VIEW`, `ALTER VIEW`, and how to simplify complex queries using virtual tables.
+- `4 - Views`:  
+  Use of CREATE VIEW, ALTER VIEW, and how to simplify complex queries using virtual tables.
 
-- `5 - trigger`:  
-  Creation and usage of triggers for automating tasks on `INSERT`, `UPDATE`, or `DELETE` actions.
+- `5 - Trigger`:  
+  Creation and usage of triggers for automating tasks on INSERT, UPDATE, or DELETE actions.
 
-- `atividades`:  
+- `Others Exercises`:  
   Miscellaneous college exercises and tasks, often combining multiple topics.
   
 ## 🛠️ **Technologies**:
