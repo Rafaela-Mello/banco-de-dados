@@ -4,7 +4,7 @@ Some SQL database exercises developed during my college coursework.
 
 These exercises were created as part of my studies in database systems, where I practiced various SQL concepts and techniques through practical assignments.
 
-## 📁 **Folder structure and topics**:
+## 📁 **Folder Structure and Topics**:
 
 - `1 - Basic & Intermediate`: Basic SQL commands like SELECT, WHERE, ORDER BY, GROUP BY, Joins, and Data Manipulation (INSERT, UPDATE, DELETE).
 
